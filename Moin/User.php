@@ -40,7 +40,7 @@
 </head>
 <body>
 	<div id="header">
-		<center><img src="K.png" height="100px" alt="adminlogo"><br>This is an Admin Panel,Please proceed with caution!
+		<center><img src="U.png" height="120px" alt="adminlogo">
 		</center>
 	</div>
 

@@ -5,10 +5,6 @@
 	$mydata = json_decode($data,true);
 
 ?>
-
-	<a href="home.php">Back</a> |
-	<a href="../controller/logout.php">logout</a>	
-	<br>
 	
 	<h1>User list</h1>
 

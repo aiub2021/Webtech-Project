@@ -46,7 +46,7 @@
 
 	<div id="sidebar">
 		<ul>
-			<li>	User List	</li>
+			<a href="User.php"><li>	User List	</li> </a>
 			<li>	Order List	</li>
 			<li>	Supplier List	</li>
 			<a href="https://github.com/Kazi1998" style="color: black;text-decoration: none"><li> Delivery Team </li></a>
